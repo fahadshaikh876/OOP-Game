@@ -1,2 +1,2 @@
 # Fahad Ahmed Shaikh
-# read "How to compile" file
+# read "How to compile".txt file
